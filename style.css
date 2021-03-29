@@ -1,0 +1,22 @@
+body{
+    background-color:darkturquoise;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+}
+header{
+    font-size:22px;
+    width:80%;
+}
+#cam{
+    width: 360px;
+    height: 300px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    border: darkgoldenrod 10px solid;
+}
+#bold, #result_object, #accuracy{
+    color: darkred;
+    font-size:large;
+}
